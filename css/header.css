@@ -1,0 +1,14 @@
+header{
+    border: red 2px solid;
+    display: grid;
+    min-height: 100px;
+    max-height: 200px;
+    text-align: center;
+    align-items: flex-end;
+    min-width: 500px;
+    
+}
+
+h1{
+    border: 2px solid red;
+}
