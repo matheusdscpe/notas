@@ -1,5 +1,7 @@
+/*aqui estou mechendo com o posicionamenrto do titulo e espaçamento do topo da pagina*/
+
 header{
-    border: red 2px solid;
+    
     display: grid;
     min-height: 100px;
     max-height: 200px;
@@ -7,8 +9,4 @@ header{
     align-items: flex-end;
     min-width: 500px;
     
-}
-
-h1{
-    border: 2px solid red;
 }

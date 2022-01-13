@@ -1,3 +1,5 @@
+/*Nesse arquivo estou colocando todos os arquivos(css) que estão separados para poder colocar um unico arquivo no link do head*/
+
 @import url(reset.css);
 @import url(header.css);
 @import url(main.css);
